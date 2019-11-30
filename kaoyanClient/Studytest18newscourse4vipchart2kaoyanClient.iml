@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="2kaoyanClient" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="Studytest18newscourse4vipchart2kaoyanClient" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
@@ -123,9 +123,9 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 19 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Gradle: __local_aars__:E.\Users\Administrator\AndroidStudioProjects\kaoyanClient\libs\android-support-v4.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:E.\Users\Administrator\AndroidStudioProjects\kaoyanClient\libs\BaiduLBS_Android.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:E.\Users\Administrator\AndroidStudioProjects\kaoyanClient\libs\cordovaplugs.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:E.\Users\Administrator\AndroidStudioProjects\kaoyanClient\libs\cordova.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:E.\Users\Administrator\AndroidStudioProjects\Studytest18newscourse4vipchart2kaoyanClient\libs\android-support-v4.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:E.\Users\Administrator\AndroidStudioProjects\Studytest18newscourse4vipchart2kaoyanClient\libs\BaiduLBS_Android.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:E.\Users\Administrator\AndroidStudioProjects\Studytest18newscourse4vipchart2kaoyanClient\libs\cordovaplugs.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:E.\Users\Administrator\AndroidStudioProjects\Studytest18newscourse4vipchart2kaoyanClient\libs\cordova.jar:unspecified@jar" level="project" />
   </component>
 </module>
